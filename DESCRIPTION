@@ -1,0 +1,11 @@
+Package: Randomized.QuasiRandomNumbers
+Type: Package
+Title: Generates randomized quasi random numbers
+Version: 0.1.0
+Author: Nishanth Upadhyaya
+Maintainer: Nishanth Upadhyaya <nishanthu@gmail.com>
+Description: Generates randomized quasi random numbers
+License: MIT
+LazyData: TRUE
+Imports:
+  randtoolbox
